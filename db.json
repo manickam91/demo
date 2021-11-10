@@ -10,5 +10,25 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "Location":{
+    "Location": {
+        "Latitude": 29.12909,
+        "Longitude": -94.82218,
+        "CountryIdentifier": 0,
+        "State": 42,
+        "County": 706,
+        "BufferDistanceFeet": 1000,
+        "Datum": "NAD27",
+        "Identifier": 123456,
+        "IdentifierType": "JG Test",
+        "TransformDatum": "WGS84"
+    },
+    "DistanceInFeet": 0,
+    "TransformedLatitude": 29.12933161434224,
+    "TransformedLongitude": -94.82237649656182,
+    "TransformedDatum": "WGS84",
+    "Success": true,
+    "Identifier": 123456
+}
 }
